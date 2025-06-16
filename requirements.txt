@@ -1,0 +1,6 @@
+
+customtkinter
+pyttsx3
+speechrecognition
+wikipedia
+pywhatkit
